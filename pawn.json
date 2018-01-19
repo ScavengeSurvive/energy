@@ -1,11 +1,8 @@
 {
+    "user": "ScavengeSurvive",
+    "repo": "energy",
     "entry": "test.pwn",
     "output": "test.amx",
-    "dependencies": [
-        "Southclaws/samp-stdlib",
-        "Southclaws/progress2",
-        "ScavengeSurvive/test-boilerplate",
-
-        "Southclaws/zcmd"
-    ]
+    "dependencies": ["Southclaws/samp-stdlib", "Southclaws/progress2"],
+    "dev_dependencies": ["ScavengeSurvive/test-boilerplate", "Southclaws/zcmd"]
 }
